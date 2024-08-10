@@ -8,14 +8,14 @@
 
 ## 🚀 Sobre 
 
-**Neste projeto contém:**
+**💾 Neste projeto contém:**
 - Uma página inicial pública.
 - Uma página de login.
 - Páginas do painel protegidas por autenticação.
 - A capacidade dos usuários de adicionar, editar e excluir faturas.
 - O painel também terá um banco de dados de acompanhamento.
 
-**Visão Geral:**
+**📈 Visão Geral:**
 - Estilo : As diferentes maneiras de estilizar seu aplicativo no Next.js.
 - Otimizações : Como otimizar imagens, links e fontes.
 - Roteamento : Como criar layouts e páginas aninhadas usando o roteamento do sistema de arquivos.
